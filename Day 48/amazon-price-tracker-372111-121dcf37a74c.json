@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "amazon-price-tracker-372111",
+  "private_key_id": "121dcf37a74c3638d2f6f327b9be500b86d087da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCTStD3K6PcL3Wo\nTt5PKxgFdDNBzAGAC3vrF318Xv4mDSZZaGajT60mcE66/r+rpq2oy7Y2nTFmqk5n\nSoxPWo5VtFlzVWymZS6zebagROhIpgEj3s+ukcQTPusyH4W945/i5w8x/mnAofoF\n3Qn2L3u9DVDTJI7cNhxUi8TmI2ZXOraVpTccjt7lvXI9PoCuH4SOqmK1XIvgwDuX\n+o/RP/zOI6OknXaPU3Atqln0/rz+TrCkUIVbLyJmy19h7cbAXbqZqjt98eGBU9ga\nh+0Wpo2DNtdUbJKv5PYoLhrtCH6G8JEsW9spFbtnwZZnAWOxXaJMjhFD/2L+uOWg\nW7Wpepp/AgMBAAECggEAAW7JYJYilmo5xUTbIb8EEU2DkCDJZPL3ph5I4LRV2Y3o\nMRd0ZCNKxmRyR5xhxewtpUYyBA78Y4jFkXimq8DwQIIsGpSapXW3ghRtg9qXvdkr\niqtIruSJGTzT8d1foiy8KetgePaGFdMdiQAQ8D2fAQRHpH4nC5pVJTdk125BuRh7\n1S+eYnl/9sy/PJG4djJZUx8P7y3NS9TNPHfAYx/nQ+ZyB6uf3/Wp9bvAMf7kWQv6\n33PJ7ABjb3FCuRf1W/l7UNGoj5G7BzLh8X6HQ8XgmgcUwAViYX+A50S2tDx5m4s+\nhoOOP1u/ae72NsmvpedVShpaKkFVJHSkZpj++RlvRQKBgQDKsG1dUriNX6hXaXYa\n7xX7DYy56FpgUFNc9RIzYNgLTdGsN7NJ8kNP+6L6bOJI3iyvajE4BkVn2J+h2aRD\neoxiNseKAcNxg4FellCCslHSvetrYuRwq8d4ddyPgB6PedSJ36GXec2c023bFQG4\nyApCBokMpft01tYSVv2LQX75ywKBgQC6CF/6rfl69z1ypNEEzPeoo0tqdflYfIIg\nL0LFsyaIKxpglwR1duX+TdptFgfV7pu2XJefVf477apea00lVSQnEshwVutWHmKU\nq/utvARD8cucfgbd/1fCDgeqxJWqxuT8WoyU1gj2wFlLYhn/AQaZUmlNdXU2uVcj\nGjmYMmkbnQKBgQCaiDR5iE3oi1vfeSpwkoQhqkz2mG3/LH7CSp6byWQuCiCnurfY\n0vn7CxFQ+J71i15qRv5Lhox4BjJ+xV51jANoBffQAlQuQWLq6JNtceLsV5wbfYRJ\nWs5zyvhj9/xUyz/99iBPSrA2twP0mml7phgcCruGhy3WAM2poeUgvMjATQKBgQCn\nna4k5qYXhjbmWdw+cBNg7aigxqUgdiakqxCFovI/1F5S0x7gW33E0Q7SJPxwZCoG\neIzgspF8G5raseFzlrAZSJIyrg4irQPzorYEhphtQ6pKWT8EvPGsVgnQconLsqNV\nQJzT6blv4kVSZ5S2r4zrjlZ0xTUUVpBNf26PVDRh/QKBgBObwdop+J2uXPvhLoA/\nnjUn3TzQKfO6b1AMJ6q0T8MMB3XaMp55R3UuzBmcgflU9y7YtgO7WMoQ9EQX0ZuH\n0qABbhCnJ22Uq6h6Ij2HlIkFKsj7qhNIbP786yh5tFFe8u8jBwj+kJaJ5LAB52ZP\nDdFTvOaGfyl/DKVvUEswtuID\n-----END PRIVATE KEY-----\n",
+  "client_email": "amazonpricetracker@amazon-price-tracker-372111.iam.gserviceaccount.com",
+  "client_id": "118381937761057252666",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amazonpricetracker%40amazon-price-tracker-372111.iam.gserviceaccount.com"
+}
